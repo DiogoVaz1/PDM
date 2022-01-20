@@ -1,0 +1,37 @@
+{
+    "review": [
+        {
+            "id": 1,
+            "title": "IpBeja",
+            "descricao": "Um site com um proposito academico para o instituto politécnico de beja",
+            "site_link": "www.ipbeja.com"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "id_review": 1,
+            "user_id": 1,
+            "rate": 4,
+            "text": "Gsoto porque o site funciona muito bem!"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Diogo Vaz",
+            "email": "email1@gmail.com",
+            "password": "pass",
+            "phone": 999999999,
+            "birthday": "2002-03-19"
+        },
+        {
+            "id": 2,
+            "name": "Bruna Raposo",
+            "email": "email2@gmail.com",
+            "password": "pass",
+            "phone": 123456789,
+            "birthday": "2002-09-24"
+        }
+    ]
+}
