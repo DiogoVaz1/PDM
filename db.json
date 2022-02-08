@@ -1,27 +1,27 @@
 {
-    "plants": [
+    "flowers": [
         {
             "id": 1,
             "name" : "Medronheiro",
-            "descricao" : "Árvore de pequeno porte, de copa densa e arredondada. Folhas persistentes verde-escuras. Floração de Setembro a Novembro simultânea com a maturação dos seus frutos formados no ano anterior. Os seus frutos, de tons vermelhos e laranja são comestíveis, sendo tradicionalmente utilizados na confecção de compotas, aguardentes e licores. Adapta-se a diversos tipos de solo e não necessita de regas frequentes. Indicada para qualquer  tipo de jardins.",
-            "preco" : 5,
-            "quantidade": 15,
+            "description" : "Árvore de pequeno porte, de copa densa e arredondada. Folhas persistentes verde-escuras. Floração de Setembro a Novembro simultânea com a maturação dos seus frutos formados no ano anterior. Os seus frutos, de tons vermelhos e laranja são comestíveis, sendo tradicionalmente utilizados na confecção de compotas, aguardentes e licores. Adapta-se a diversos tipos de solo e não necessita de regas frequentes. Indicada para qualquer  tipo de jardins.",
+            "price" : 5,
+            "quantity": 15,
             "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcaraghnurseries.ie%2Fwp-content%2Fuploads%2F2018%2F06%2Farbutus-unedo-768x580.jpg"
         },
         {
             "id": 2,
             "name" : "Sabugueiro",
-            "descricao" : "Arbusto perene, que pode atingir 3 metros de altura. Muito ornamental, pode ser utilizado com sucesso em sebes ou como elemento isolado, ajudando à fertilidade do solo por ser fixadora de azoto. Na primavera a sua intensa floração branca atrai inúmeros insectos polinizadores. Adapta-se a diferentes tipos de solo e não exige regas frequentes",
-            "preco" : 7,
-            "quantidade": 30,
+            "description" : "Arbusto perene, que pode atingir 3 metros de altura. Muito ornamental, pode ser utilizado com sucesso em sebes ou como elemento isolado, ajudando à fertilidade do solo por ser fixadora de azoto. Na primavera a sua intensa floração branca atrai inúmeros insectos polinizadores. Adapta-se a diferentes tipos de solo e não exige regas frequentes",
+            "price" : 7,
+            "quantity": 30,
             "image" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi2.wp.com%2Frevistajardins.pt%2Fwp-content%2Fuploads%2F2019%2F01%2FThinkstockPhotos-691978464.jpg"
         },
         {
             "id": 3,
             "name" : "Papoila",
-            "descricao" : "Planta herbácea anual. As suas delicadas e acetinadas flores vermelhas florescem durante a Primavera. Originária do Médio Oriente foi trazida para Portugal pelos Romanos juntamente com o trigo. As suas pétalas têm aplicação medicinal e alimentar, podendo ser consumidas em saladas, assim como as sementes. Não necessita de rega.",
-            "preco" : 2,
-            "quantidade": 70    ,
+            "description" : "Planta herbácea anual. As suas delicadas e acetinadas flores vermelhas florescem durante a Primavera. Originária do Médio Oriente foi trazida para Portugal pelos Romanos juntamente com o trigo. As suas pétalas têm aplicação medicinal e alimentar, podendo ser consumidas em saladas, assim como as sementes. Não necessita de rega.",
+            "price" : 2,
+            "quantity": 70    ,
             "image" : "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F4.bp.blogspot.com%2F-RLYo4bjAj0Y%2FT3Ip1tWj_WI%2FAAAAAAAAABg%2FXBO41MZG55c%2Fs1600%2Fpapoila%2B1.JPG"
         }
     ],
@@ -46,19 +46,19 @@
     "purchases": [
         {
             "id": 1,
-            "namePlanta": "Papoila",
-            "emailEncomenda": "email1@gmail.com",
-            "quantidade": "12",
-            "dataEncomenda": "2022-02-02",
-            "morada": "Rua de Beja"
+            "flowerName": "Papoila",
+            "OrderEmail": "email1@gmail.com",
+            "Quantity": "12",
+            "OrderDate": "2022-02-02",
+            "Address": "Rua de Beja"
         },
         {
             "id": 2,
-            "namePlanta": "Sabugueiro",
-            "emailEncomenda": "email2@gmail.com",
-            "quantidade": "32",
-            "dataEncomenda": "2022-20-02",
-            "morada": "Rua de Alvito"
+            "flowerName": "Sabugueiro",
+            "orderEmail": "email2@gmail.com",
+            "quantity": "32",
+            "orderDate": "2022-20-02",
+            "address": "Rua de Alvito"
         }
     ]
 }
