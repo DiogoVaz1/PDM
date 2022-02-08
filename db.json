@@ -49,14 +49,16 @@
             "namePlanta": "Papoila",
             "emailEncomenda": "email1@gmail.com",
             "quantidade": "12",
-            "dataEncomenda": "2022-02-02"
+            "dataEncomenda": "2022-02-02",
+            "morada": "Rua de Beja"
         },
         {
             "id": 2,
             "namePlanta": "Sabugueiro",
             "emailEncomenda": "email2@gmail.com",
             "quantidade": "32",
-            "dataEncomenda": "2022-20-02"
+            "dataEncomenda": "2022-20-02",
+            "morada": "Rua de Alvito"
         }
     ]
 }
