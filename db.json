@@ -46,17 +46,17 @@
     "orders": [
         {
             "id": 1,
-            "id_flower": "2",
-            "id_user": "1",
-            "Quantity": "12",
+            "id_flower": 2,
+            "id_user": 1,
+            "Quantity": 12,
             "OrderDate": "2022-02-02",
             "Address": "Rua de Beja"
         },
         {
             "id": 2,
-            "id_flower": "3",
-            "id_user": "2",
-            "quantity": "32",
+            "id_flower": 3,
+            "id_user": 2,
+            "quantity": 32,
             "orderDate": "2022-20-02",
             "address": "Rua de Alvito"
         }
