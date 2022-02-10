@@ -49,7 +49,7 @@
             "id_flower": 2,
             "id_user": 1,
             "quantity": 12,
-            "orderDate": "2022-02-02",
+            "orderDate": "02-02-2022",
             "address": "Rua de Beja"
         },
         {
@@ -57,7 +57,7 @@
             "id_flower": 3,
             "id_user": 2,
             "quantity": 32,
-            "orderDate": "2022-20-02",
+            "orderDate": "02-11-2022",
             "address": "Rua de Alvito"
         }
     ]
