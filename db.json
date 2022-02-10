@@ -48,9 +48,9 @@
             "id": 1,
             "id_flower": 2,
             "id_user": 1,
-            "Quantity": 12,
-            "OrderDate": "2022-02-02",
-            "Address": "Rua de Beja"
+            "quantity": 12,
+            "orderDate": "2022-02-02",
+            "address": "Rua de Beja"
         },
         {
             "id": 2,
